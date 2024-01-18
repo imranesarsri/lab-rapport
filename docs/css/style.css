@@ -2,7 +2,6 @@
 
 body {
   font-family: 'Roboto', sans-serif;
-  background: red;
 }
 
 /* fix image taille error */
@@ -10,16 +9,9 @@ img {
   width: 100%;
 }
 
-figure {
-  margin: 0;
-  padding: 0;
-}
 
-figcaption {
+em {
   text-align: center;
-}
-
-figcaption {
   font-style: italic;
   font-size: 14px;
   color: #666;
