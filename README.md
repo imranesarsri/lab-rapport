@@ -1,3 +1,5 @@
 # lab-rapport
 
-*Caption: A sdsdsdsd*
+![médecin générale Carte d'empathie](./images/médecin-générale.png)
+
+*Caption: A compassionate general physician providing care in Asia*
