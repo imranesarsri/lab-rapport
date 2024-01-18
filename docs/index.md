@@ -18,6 +18,6 @@ order : 1
 ## Médecin général - Algamot asia
 ![médecin générale Carte d'empathie](./images/médecin-générale.png)
 *figure: 3 médecin générale - Algamot asia*
-## Conclusion
+## Conclusion:
 
 [chapiter](./chapiter1.md)
