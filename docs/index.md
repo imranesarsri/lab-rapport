@@ -6,7 +6,6 @@ order : 1
 
 
 
-
 # Carte d’empathie
 ## Introduction
 ![Introduction image](./images/Introduction.png)
@@ -19,3 +18,5 @@ order : 1
 ![médecin générale Carte d'empathie](./images/médecin-générale.png)
 *figure: 3 médecin générale - Algamot asia*
 ## Conclusion:
+
+ sdsd</sup>sdsd
